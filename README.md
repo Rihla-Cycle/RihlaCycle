@@ -1,4 +1,4 @@
-Travel Loop✈️🌍 — Project Description
+RihlaCycle|رحلة سايكل — Project Description
 
 1. Project Name
 
@@ -6,7 +6,7 @@ Travel Loop — Travel Essentials Rental Service
 
 2. Project Idea
 
-Travel Loop is a travel essentials rental service that allows customers to rent selected travel items for a limited period instead of purchasing products they may only use occasionally.
+RihlaCycle |رحلة سايكل is a travel essentials rental service that allows customers to rent selected travel items for a limited period instead of purchasing products they may only use occasionally.
 The project aims to make travel preparation more affordable and convenient by providing access to practical travel essentials through a flexible rental model.
 The proposed service may connect travelers with individuals or providers who have suitable travel items available for rent.
 The main priorities are affordability, convenience, cleanliness, product quality, and an easy booking, pickup, and return process.
